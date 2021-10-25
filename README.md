@@ -7,11 +7,11 @@ Virtual Spanish Flash Cards to Aid in Memorizing/Increasing Sp. Vocab
 ###
 # Ex.
 # Windows:
-#	   PS C:>cd <Path>
-# 	   PS C:\Users\Name\Documents\SpanishVocab>python3 Spanish_Flash_Card.py
+#	PS C:>cd <Path>
+# PS C:\Users\Name\Documents\SpanishVocab>python3 Spanish_Flash_Card.py
 ###
 # Linux/Mac:
-# 	   user@user:~$ cd ~/Documents/SpanishVocab
-#          user@user:~/Documents/SpaishVocab$ python3 Spanish_Flash_Card.py
+# user@user:~$ cd ~/Documents/SpanishVocab
+# user@user:~/Documents/SpaishVocab$ python3 Spanish_Flash_Card.py
 ###
 
