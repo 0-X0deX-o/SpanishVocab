@@ -12,8 +12,12 @@ def properFlashCards():
         i = random.randint(0,308)
         s = SpEn.SpEn[i]
         c = SptoEn.SptoEn[s]
-        input(SpEn.SpEn[i]+'\n')
-        print(c+'\n\n')
+        filler = '\n'+(24*'-')+'\n'+(24*'-')
+        filler0 = (24*'-')+'\n'+(24*'-')
+        SCard = filler+'\n'+'|'+s.center(22)+'|'+'\n'+filler0
+        ECard = '\n'+filler+'\n'+'|'+c.center(22)+'|'+'\n'+filler0
+        input(SCard)
+        print(ECard+'\n\n')
 properFlashCards()
 
 # how to cycle the program so that each keystroke = function runs
