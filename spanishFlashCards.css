@@ -1,0 +1,16 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+}
+#answer {
+    width: 400px;
+}
